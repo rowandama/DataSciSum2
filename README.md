@@ -6,6 +6,8 @@ The data is from this link on kaggle
 
 https://www.kaggle.com/datasets/tunguz/big-five-personality-test
 
+because its 300MB big Github will not let me upload it I am sorry
+
 The explanations are all inside the notebook :) 
 
 This data was collected (2016-2018) through an interactive on-line personality test.
