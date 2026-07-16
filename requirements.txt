@@ -1,1 +1,9 @@
 requirements
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+factor_analyzer
+pycountry
