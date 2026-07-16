@@ -1,7 +1,13 @@
 # DataSciSum2
 My resit, big 5 personality
+Student ID 23315023401
+
 The data is from this link on kaggle
+
 https://www.kaggle.com/datasets/tunguz/big-five-personality-test
+
+The explanations are all inside the notebook :) 
+
 This data was collected (2016-2018) through an interactive on-line personality test.
 The personality test was constructed with the "Big-Five Factor Markers" from the IPIP. https://ipip.ori.org/newBigFive5broadKey.htm
 Participants were informed that their responses would be recorded and used for research at the beginning of the test, and asked to confirm their consent at the end of the test.
